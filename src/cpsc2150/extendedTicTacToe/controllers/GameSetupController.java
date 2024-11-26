@@ -3,18 +3,6 @@ package cpsc2150.extendedTicTacToe.controllers;
 import cpsc2150.extendedTicTacToe.models.*;
 import cpsc2150.extendedTicTacToe.views.*;
 
-/**
- * <p>The {@link GameSetupController} class will handle communication between our {@link GameSetupScreen}
- * and start a new game when all the required fields to build an {@link IGameBoard} is met.</p>
- <p>
- * If there are no errors it will create a new {@link IGameBoard} object (the implementation will depend on
- * the size of the game board) to serve as the model, and the {@link TicTacToeController} and {@link TicTacToeView}.
- * Control is then passed over the event dispatch thread that will wait for an event to occur
- * <p>
- * No changes need to be made to this class.
- *
- * @version 2.0
- */
 public class GameSetupController {
 
     /**

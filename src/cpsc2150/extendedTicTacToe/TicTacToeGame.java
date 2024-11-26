@@ -3,12 +3,6 @@ package cpsc2150.extendedTicTacToe;
 import cpsc2150.extendedTicTacToe.controllers.*;
 import cpsc2150.extendedTicTacToe.views.*;
 
-/**
- * This class is the entry point of our program and just loads the set-up screen and controller.
- * No changes are necessary.
- *
- * @version 2.0
- */
 public final class TicTacToeGame {
 
     /**

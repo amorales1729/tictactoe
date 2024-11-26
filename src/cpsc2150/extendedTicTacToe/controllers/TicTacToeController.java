@@ -5,22 +5,6 @@ import cpsc2150.extendedTicTacToe.views.*;
 
 import java.awt.event.ActionEvent;
 
-/**
- * <p>
- * The {@link TicTacToeController} class will handle communication between our {@link TicTacToeView}
- * and our model ({@link IGameBoard} and {@link BoardPosition})
- * </p>
- *
- * <p>
- * This is where you will write code
- * <p>
- *
- * You will need to include your {@link BoardPosition} class, the {@link IGameBoard} interface
- * and both of the {@link IGameBoard} implementations from Project 4.
- * If your code was correct you will not need to make any changes to your {@link IGameBoard} implementation class.
- *
- * @version 2.0
- */
 public class TicTacToeController {
 
     /**

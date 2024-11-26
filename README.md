@@ -1,2 +1,2 @@
 # tictactoe
-Tic Tac Toe game using Java and MVC (model view controller) design pattern and Swing for the GUI.
+Tic Tac Toe game using Java and MVC (Model-View-Controller) design pattern and Swing for the GUI.

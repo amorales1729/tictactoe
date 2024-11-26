@@ -9,17 +9,6 @@ import javax.swing.*;
 import java.util.*;
 import java.util.List;
 
-/**
- * This class is the view of our Extended TicTacToe game
- * our view has a message area, and a list of buttons
- * the buttons will be arranged in a {@code ROWS_IN_BUTTON_PANEL x COLUMNS_IN_BUTTON_PANEL} Grid
- * Players will use the buttons to make their next move.
- * All events will be passed to the controller
- * <p>
- * You do not need to make any changes to this code, but you do need to understand much of what is happening
- *
- * @version 2.0
- */
 public final class TicTacToeView extends JFrame implements ActionListener {
 
     private TicTacToeController controller;
